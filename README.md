@@ -7,7 +7,7 @@ and the cryptography they use to derive a stable secret.
 If you're brave or reckless, you could use this technique to derive keys
 to encrypt your disk, or password database, or SSH keys.
 
-See https://jbp.io/2015/11/23/key-storage-with-u2f/ for the background.
+See https://jbp.io/2015/11/23/abusing-u2f-to-store-keys/ for the background.
 
 Usage
 -----
