@@ -1,3 +1,7 @@
+"""
+'Key storage' by abusing U2F devices.
+"""
+
 import os, sys
 import hashlib
 import json
